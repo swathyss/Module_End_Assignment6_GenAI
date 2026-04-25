@@ -108,9 +108,8 @@ To assess the quality of paraphrasing:
 paraphrasing-tool/
 
 │
-├── Module_End_Assignment6_GenAI.ipynb  
-├── Module End Assignment6_GenAI.pdf  
-├── paraphraser.py (optional script)  
+├── Module_End_Assignment6_GenAI(3).ipynb  
+├── Module End Assignment6_GenAI.pdf   
 └── README.md  
 
 ---

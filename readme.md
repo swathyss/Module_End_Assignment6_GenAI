@@ -104,3 +104,65 @@ To assess the quality of paraphrasing:
 ---
 
 # 📁 Repository Structure
+
+paraphrasing-tool/
+
+│
+├── Module_End_Assignment6_GenAI.ipynb  
+├── Module End Assignment6_GenAI.pdf  
+├── paraphraser.py (optional script)  
+└── README.md  
+
+---
+
+# 🚀 How to Run the Project
+
+### 1️⃣ Install Dependencies
+
+pip install transformers torch nltk spacy numpy
+
+---
+
+### 2️⃣ Run the Notebook / Script
+
+- Open the `.ipynb` file in Jupyter Notebook or Google Colab  
+- OR run the Python script  
+
+---
+
+### 3️⃣ Provide Input Text
+
+Example:
+
+Input: Artificial Intelligence is transforming the world.
+
+---
+
+### 4️⃣ Get Paraphrased Output
+
+Output: AI is revolutionizing the way the world operates.
+
+---
+
+# 🔍 Sample Output
+
+| Input Text | Paraphrased Output |
+|-----------|-------------------|
+| Machine learning is a subset of AI | ML is a branch within artificial intelligence |
+| NLP helps computers understand language | NLP enables machines to interpret human language |
+
+---
+
+# 🧠 Key Learning Outcomes
+
+✔ Understanding transformer-based NLP models  
+✔ Text generation using deep learning  
+✔ Semantic similarity and evaluation metrics  
+✔ Building end-to-end NLP applications  
+✔ Practical use of Hugging Face ecosystem  
+
+---
+
+# 📌 Academic Submission
+
+This project was developed as part of a **Generative AI assignment** to demonstrate the implementation of an **AI-powered paraphrasing tool using transformer models**.
